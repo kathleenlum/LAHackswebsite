@@ -1,0 +1,44 @@
+html {
+  height: 100%;
+  width: 100%;
+  background: palegoldenrod;
+}
+
+.center {
+  font-family:'Geneva';
+  color: yellow;
+  font-size: 100px;
+  padding: 10px;
+}
+h1 {
+  font-family:'Verdana';
+  color: lightblue;
+  font-size: 75px;
+  
+}
+h2{
+  font-size: 25px;
+}
+.list {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+p {
+  color: black;
+  font-size: 20px;
+  font-family: 'Verdana';
+}
+.page {
+  margin-bottom: 50px;
+}
+
+.submitBtn {
+  border: none;
+  background-color: purple;
+}
+
+.user-input {
+  display: flex;
+  flex-
+}
